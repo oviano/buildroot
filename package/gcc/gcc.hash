@@ -6,7 +6,9 @@ sha512  6de904f552a02de33b11ef52312bb664396efd7e1ce3bbe37bfad5ef617f133095b3767b
 sha512  4b9e3639eef6e623747a22c37a904b4750c93b6da77cf3958d5047e9b5ebddb7eebe091cc16ca0a227c0ecbd2bf3b984b221130f269a97ee4cc18f9cf6c444de  gcc-9.3.0.tar.xz
 # From ftp://gcc.gnu.org/pub/gcc/releases/gcc-10.2.0/sha512.sum
 sha512  42ae38928bd2e8183af445da34220964eb690b675b1892bbeb7cd5bb62be499011ec9a93397dba5e2fb681afadfc6f2767d03b9035b44ba9be807187ae6dc65e  gcc-10.2.0.tar.xz
-
+From https://gcc.gnu.org/pub/gcc/releases/gcc-11.4.0/sha512.sum
+sha512  a5018bf1f1fa25ddf33f46e720675d261987763db48e7a5fdf4c26d3150a8abcb82fdc413402df1c32f2e6b057d9bae6bdfa026defc4030e10144a8532e60f14  gcc-11.4.0.tar.xz
+# 
 # Locally calculated (fetched from Github)
 sha512  09ad77fce757d77f2db49cd049b78861abfa5c1c6c3be76228815ec2b15810c1985525c48b0300e83e88f3fa33dee0062f34790cc8b6bc2fa6b0301595acf42b  gcc-arc-2020.03-release.tar.gz
 # Locally calculated (fetched from Github)
